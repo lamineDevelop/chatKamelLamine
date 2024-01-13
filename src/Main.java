@@ -22,6 +22,8 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         System.out.println("Choisir un identfiant");
          nomClient = sc.nextLine();
+         Scene scene = new Scene();
+
          go();
     }
 
