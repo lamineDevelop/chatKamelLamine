@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ac3f9c-7e20-4deb-9d6c-cbe49897c5b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Scene.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1ac3f9c-7e20-4deb-9d6c-cbe49897c5b3" name="Changes" comment="Initiation ihm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +63,24 @@
       <workItem from="1705059248110" duration="1000" />
       <workItem from="1705150653705" duration="503000" />
       <workItem from="1705151290126" duration="214000" />
-      <workItem from="1705151944277" duration="1379000" />
+      <workItem from="1705151944277" duration="2114000" />
     </task>
+    <task id="LOCAL-00001" summary="Initiation ihm">
+      <created>1705153471847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705153471847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiation ihm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initiation ihm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

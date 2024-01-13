@@ -12,6 +12,11 @@ public class Scene extends JFrame {
     private JPanel mainPanel;
     private JPanel goodPanel;
 
+    private String login;
+
+    public String getLogin(){
+        return login;
+    }
     public Scene(){
         super();
         setContentPane(goodPanel);
